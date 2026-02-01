@@ -5,7 +5,7 @@
     "Date": "February 1, 2026",
     "Category": "Web Dev",
     "Published": true,
-    "Content": "Well guys... Welcome to my new blog, this is going to be the start of something new!\n\n #What will I talk about\n\nI will talk about anything I feel like, mostly related to technology!"
+    "Content": "Well guys... Welcome to my new blog, this is going to be the start of something new!\n\n #What will I talk about\n\nI will talk about anything I feel like, mostly related to technology!\n\n Ok, today I will talk about how a RAG model works, it stands for retrival augmented generation. \n It is when you sen a prompt to a AI model such as chatgpt or gemini. When you send this prompt the model will get some context about what you are asking. An example of this being implemented is when you ask an chatbot something that is related to some HR policies. It will get context of all of the policies and give you an answer. "
   },
   {
     "Name": "Blog Formatting Guide (Tutorial)",
