@@ -1,18 +1,18 @@
 [
   {
-    "Name": "test",
-    "Slug": "test",
+    "Name": "My first Blog!",
+    "Slug": "Achievment",
     "Date": "February 1, 2026",
     "Category": "Web Dev",
     "Published": true,
-    "Content": "test"
+    "Content": "Well guys... Welcome to my new blog, this is going to be the start of something new!"
   },
   {
     "Name": "test",
     "Slug": "test",
     "Date": "February 5, 2026",
     "Category": "test",
-    "Published": true,
+    "Published": false,
     "Content": "test"
   }
 ]
