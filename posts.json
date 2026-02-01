@@ -1,18 +1,18 @@
 [
   {
     "Name": "My first Blog!",
-    "Slug": "Achievement",
+    "Slug": "achievement",
     "Date": "February 1, 2026",
     "Category": "Web Dev",
     "Published": true,
     "Content": "Well guys... Welcome to my new blog, this is going to be the start of something new!\n\n# What will I talk about\n\nI will talk about anything I feel like, mostly related to technology!"
   },
   {
-    "Name": "test",
-    "Slug": "test",
-    "Date": "February 5, 2026",
-    "Category": "test",
+    "Name": "Blog Formatting Guide (Tutorial)",
+    "Slug": "tutorial",
+    "Date": "February 6, 2026",
+    "Category": "Tutorial",
     "Published": false,
-    "Content": "test"
+    "Content": "**Bold Text:** Use double asterisks around text: `**Bold Text**`\n\n*Italic Text:* Use single asterisks: `*Italic Text*`\n\n# Headings\nUse `#` for H1, `##` for H2, etc.\n\n## Lists\n- Unordered list: start each line with `-`\n- Ordered list: start each line with `1.`\n\n## Links\nUse `[Text](https://example.com)` to create a link.\n\n## Code\nInline code: `` `console.log('Hi');` ``\nCode block:\n```\nfunction hello() {\n  console.log('Hello World');\n}\n```\n\n## Preview\nThis post is **unpublished**, so it will only be visible when you set `Published` to `true`."
   }
 ]
