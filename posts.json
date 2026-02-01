@@ -1,15 +1,11 @@
 [
   {
     "Name": "My first Blog!",
-    "Slug": "Achievment",
+    "Slug": "Achievement",
     "Date": "February 1, 2026",
     "Category": "Web Dev",
     "Published": true,
-    "Content": "Well guys... Welcome to my new blog, this is going to be the start of something new!
-    
-    #What will I talk about
-    
-    I will talk about anything I feel like mostly related to technology!"
+    "Content": "Well guys... Welcome to my new blog, this is going to be the start of something new!\n\n# What will I talk about\n\nI will talk about anything I feel like, mostly related to technology!"
   },
   {
     "Name": "test",
