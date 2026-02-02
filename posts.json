@@ -8,6 +8,14 @@
     "Content": "Well guys... Welcome to my new blog, this is going to be the start of something new!\n\n #What will I talk about\n\nI will talk about anything I feel like, mostly related to technology!\n\n Ok, today I will talk about how a RAG model works, it stands for retrival augmented generation. \n It is when you sen a prompt to a AI model such as chatgpt or gemini. When you send this prompt the model will get some context about what you are asking. An example of this being implemented is when you ask an chatbot something that is related to some HR policies. It will get context of all of the policies and give you an answer. "
   },
   {
+    "Name": "School Classes",
+    "Slug": "School",
+    "Date": "February 2, 2026",
+    "Category": "School",
+    "Published": true,
+    "Content": "Welcome to my second blog post! \n\n I am going to be talking about one of my classes, AP Computer Science Princicples. I personally find this the easiest AP class out there, if you have some commen sense then you will be able to understand the content as its pretty simple. It is also mostly about block coding which is really simple. Overall this class is fun, because I get to do cs while being with my friends. I would highly recommended people who are interested in computer science."
+  },
+  {
     "Name": "Blog Formatting Guide (Tutorial)",
     "Slug": "tutorial",
     "Date": "February 6, 2026",
