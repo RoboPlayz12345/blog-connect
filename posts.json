@@ -5,7 +5,7 @@
     "Date": "February 1, 2026",
     "Category": "Web Dev",
     "Published": true,
-    "Content": "Well guys... Welcome to my new blog, this is going to be the start of something new!\n\n# What will I talk about\n\nI will talk about anything I feel like, mostly related to technology!\n\nOk, today I will talk about how a RAG model works. It stands for Retrieval Augmented Generation. It is when you send a prompt to an AI model such as ChatGPT or Gemini. When you send this prompt the model will get some context about what you are asking. A good example of this is when you ask a chatbot something related to HR policies. It will grab context from all of those policies and give you a solid answer. Thanks for reading!"
+    "Content": "Well, guys... Welcome to my new blog, this is going to be the start of something new!\n\n# What will I talk about\n\nI will talk about anything I feel like, mostly related to technology!\n\nOk, today I will talk about how a RAG model works. It stands for Retrieval Augmented Generation. It is when you send a prompt to an AI model such as ChatGPT or Gemini. When you send this prompt the model will get some context about what you are asking. A good example of this is when you ask a chatbot something related to HR policies. It will grab context from all of those policies and give you a solid answer. Thanks for reading!"
   },
   {
     "Name": "School Classes",
@@ -39,116 +39,4 @@
     "Published": false,
     "Content": "**Bold Text:** Use double asterisks around text: `**Bold Text**`\n\n*Italic Text:* Use single asterisks: `*Italic Text*`\n\n# Headings\nUse `#` for H1, `##` for H2, etc.\n\n## Lists\n- Unordered list: start each line with `-`\n- Ordered list: start each line with `1.`\n\n## Links\nUse `[Text](https://example.com)` to create a link.\n\n## Code\nInline code: `` `console.log(Hi);` ``\nCode block:\n```\nfunction hello() {\n  console.log(Hello World);\n}\n```\n\n## Preview\nThis post is **unpublished**, so it will only be visible when you set `Published` to `true`."
   },
-  {
-    "Name": "DeepSeek Is Changing The Game",
-    "Slug": "deepseek",
-    "Date": "February 9, 2026",
-    "Category": "Technology",
-    "Published": true,
-    "Content": "By now you have probably heard about DeepSeek. If you have not, let me catch you up.\n\n# What Is DeepSeek?\n\nDeepSeek is an AI model made by a Chinese company. What made everyone freak out is that they built it for way less money than what American companies like OpenAI or Google spend. We are talking a fraction of the cost.\n\nThis is a huge deal because everyone assumed you needed billions of dollars and the best chips to build a competitive AI. DeepSeek kind of proved that wrong.\n\n# Why Does This Matter?\n\nA lot of American AI companies depend on having the best hardware, specifically Nvidia chips. The US government has even blocked China from buying the top Nvidia chips. But DeepSeek built something really competitive anyway. That is pretty wild.\n\nIt also caused Nvidias stock to drop a lot when it came out, which shows how seriously people took it.\n\nOverall, DeepSeek is a reminder that AI is moving super fast and no single company or country has it all figured out. Thanks for reading!"
-  },
-  {
-    "Name": "What Even Is The Cloud?",
-    "Slug": "the-cloud",
-    "Date": "February 10, 2026",
-    "Category": "Technology",
-    "Published": true,
-    "Content": "You have probably heard someone say it is saved to the cloud or just put it in the cloud. But what does that actually mean?\n\n# The Cloud Is Just Someone Elses Computer\n\nSeriously, that is basically it. The cloud is a giant network of servers, which are basically powerful computers, stored in huge buildings called data centers. When you save something to the cloud, you are sending your file over the internet to one of those servers.\n\nCompanies like Amazon, Google, and Microsoft own most of these data centers. Amazons cloud service is called AWS, Google has Google Cloud, and Microsoft has Azure.\n\n# Why Do People Use It?\n\nThe big reason is that you can access your stuff from anywhere. If you save a photo to iCloud or Google Photos, you can see it on your phone, your laptop, or even a friends computer. You are not stuck with just one device.\n\nIt is also great for businesses because instead of buying a bunch of expensive servers, they can just rent space from Amazon or Google.\n\nPretty simple once you think about it right? Thanks for reading!"
-  },
-  {
-    "Name": "How Does GPS Actually Work?",
-    "Slug": "how-gps-works",
-    "Date": "February 11, 2026",
-    "Category": "Technology",
-    "Published": true,
-    "Content": "Every time you open Google Maps or drop a pin somewhere, GPS is doing a ton of work behind the scenes. But how does your phone actually know where you are?\n\n# Satellites Are Doing The Heavy Lifting\n\nGPS stands for Global Positioning System. There are around 30 satellites orbiting the Earth right now and they are constantly sending out signals. Your phone picks up those signals and uses them to figure out where you are.\n\n# The Math Behind It\n\nHere is where it gets interesting. Each satellite basically says I am here and the signal left me at this time. Your phone measures how long it took for the signal to arrive. Since signals travel at the speed of light, your phone can calculate exactly how far away that satellite is.\n\nBut one satellite is not enough. You need at least three to pinpoint your location. This is called trilateration. Think of it like drawing three circles on a map. Where they all overlap is where you are. A fourth satellite is usually used to make the timing even more accurate.\n\nPretty cool that all of this happens in seconds every time you pull up Maps. Thanks for reading!"
-  },
-  {
-    "Name": "Why Is Coding So Important To Learn?",
-    "Slug": "why-learn-coding",
-    "Date": "February 12, 2026",
-    "Category": "Web Dev",
-    "Published": true,
-    "Content": "A lot of people think coding is only for people who want to be software engineers. That is actually not true at all.\n\n# It Is Everywhere\n\nCoding is behind basically everything you use every day. Your favorite apps, websites, video games, even the software in your car. Someone had to write all of that. Learning to code means you understand how the digital world actually works.\n\n# You Do Not Have To Be A Math Genius\n\nThis is a big myth. Yes, some parts of computer science involve math, but a lot of coding is really just about problem solving and logic. If you can break a problem into smaller steps, you can code.\n\nLanguages like Python are super beginner friendly. You can write a program that does something useful in just a few lines.\n\n# It Opens Doors\n\nEven if you do not want to be a developer, coding helps in almost every field. Data science, design, business, science, you name it. Knowing at least the basics gives you a big advantage.\n\nI am still learning myself and it is one of the most useful things I have picked up. If you are on the fence, just try it. There are tons of free resources out there. Thanks for reading!"
-  },
-  {
-    "Name": "What Is Open Source Software?",
-    "Slug": "open-source",
-    "Date": "February 13, 2026",
-    "Category": "Web Dev",
-    "Published": true,
-    "Content": "You might have heard the term open source thrown around, especially in the tech world. But what does it actually mean?\n\n# Anyone Can See The Code\n\nOpen source software is software where the original code is made public. That means anyone can read it, use it, and even change it. The opposite is closed source software, where the company keeps the code private. Think of how you cannot see the code behind Instagram or TikTok.\n\n# Famous Examples\n\nSome of the biggest software in the world is open source. Linux is an operating system that powers a ton of servers and even Android phones. Firefox is an open source browser. VS Code, one of the most popular code editors, is open source too.\n\nEven a lot of AI models are going open source now. Meta released their Llama models publicly, which lets developers build their own AI tools on top of them.\n\n# Why Does It Matter?\n\nOpen source is great because it lets people collaborate from all over the world. If someone finds a bug, they can fix it and share the fix. It also means smaller developers can build on top of existing tools instead of starting from scratch.\n\nIt is honestly one of the reasons the internet and tech in general has grown so fast. Thanks for reading!"
-  },
-  {
-    "Name": "Net Neutrality Explained",
-    "Slug": "net-neutrality",
-    "Date": "February 17, 2026",
-    "Category": "Technology",
-    "Published": true,
-    "Content": "Net neutrality is one of those topics that sounds complicated but is actually pretty simple once you get the idea.\n\n# What Is It?\n\nNet neutrality is the idea that all internet traffic should be treated equally. It means your internet provider, like Comcast or Verizon, cannot slow down certain websites or speed up others. Every website should load at the same speed regardless of who owns it.\n\n# Why Does It Matter?\n\nImagine if Comcast decided to slow down Netflix because they have their own streaming service they want you to use instead. Without net neutrality, they could legally do that. Or they could charge Netflix extra money to load faster, and Netflix would just pass that cost on to you.\n\nThis is a big deal for smaller websites and startups too. If big companies can pay for faster speeds, small creators and new businesses get left behind.\n\n# What Is The Current Situation?\n\nNet neutrality rules have been a back and forth debate in the US for years. The rules have been repealed and then partially brought back depending on who is in charge. It is still an ongoing issue that affects how the internet works for everyone.\n\nIt is one of those things that does not get talked about enough but really impacts your everyday internet experience. Thanks for reading!"
-  },
-  {
-    "Name": "How Do Recommendation Algorithms Work?",
-    "Slug": "recommendation-algorithms",
-    "Date": "February 18, 2026",
-    "Category": "Technology",
-    "Published": true,
-    "Content": "Ever notice how TikTok or YouTube always seems to know exactly what you want to watch next? That is not magic, it is a recommendation algorithm.\n\n# What Is An Algorithm?\n\nAn algorithm is just a set of steps a computer follows to solve a problem or make a decision. In this case, the problem is figuring out what video you are most likely to watch and enjoy.\n\n# How Does It Learn What You Like?\n\nThese algorithms track a ton of data about what you do. How long you watch a video, whether you like or skip it, what you search for, and what time of day you are watching. All of that gets fed into a model that tries to predict what you want to see next.\n\nThe more you use the app, the better it gets at guessing. That is why the For You page feels so personal after a while.\n\n# Is It A Good Thing?\n\nHonestly, it depends. On one hand it is great for discovering new content you actually enjoy. On the other hand, it can create what people call a filter bubble, where you only see content that already matches your views and interests. That can be a problem when it comes to news or serious topics.\n\nEither way, knowing how it works helps you be more aware of how these apps are influencing what you see. Thanks for reading!"
-  },
-  {
-    "Name": "What Is Cybersecurity And Why Should You Care?",
-    "Slug": "cybersecurity",
-    "Date": "February 19, 2026",
-    "Category": "Technology",
-    "Published": true,
-    "Content": "Cybersecurity might sound like something only big companies or governments have to worry about. But it affects everyone, including you.\n\n# What Is Cybersecurity?\n\nCybersecurity is the practice of protecting computers, networks, and data from people who want to steal or damage it. Hackers, scammers, and bad actors are always looking for ways to get into systems they are not supposed to be in.\n\n# Common Threats You Should Know\n\nPhishing is one of the most common ones. This is when someone sends you a fake email or text pretending to be a real company like your bank or Apple. They try to get you to click a link and enter your password.\n\nMalware is software designed to mess up your device or steal your info. Ransomware is a type of malware that locks your files and demands money to get them back.\n\n# How To Stay Safe\n\nSome basics go a long way. Use strong passwords that are different for each account. Turn on two factor authentication whenever you can, that is the thing where you get a code texted to you when logging in. And do not click on sketchy links even if they look real.\n\nCybersecurity is a huge field and people who work in it get paid really well. But even if you are not going into that career, knowing the basics keeps you safer online. Thanks for reading!"
-  },
-  {
-    "Name": "The Basics of How The Internet Works",
-    "Slug": "how-the-internet-works",
-    "Date": "February 20, 2026",
-    "Category": "Web Dev",
-    "Published": true,
-    "Content": "We use the internet every single day but most people have no idea how it actually works. Let me break it down in a simple way.\n\n# It Starts With IP Addresses\n\nEvery device connected to the internet has an IP address. Think of it like a home address but for your computer or phone. When you want to visit a website, your device needs to know where to send the request.\n\n# DNS Is Like The Phone Book\n\nWhen you type something like google.com into your browser, your computer does not actually understand that name. It needs an IP address. DNS, which stands for Domain Name System, translates the name into an IP address. So it turns google.com into something like 142.250.80.46.\n\n# Sending And Receiving Data\n\nOnce your computer knows the IP address, it sends a request to that server. The server sends back the data for the webpage, which travels through a bunch of cables and routers to get back to you. All of this usually happens in less than a second.\n\nThat data gets broken into small pieces called packets, sent separately, and then reassembled on your end. It is kind of like sending a puzzle in multiple envelopes and putting it back together when it arrives.\n\nThe whole system is pretty amazing when you think about how fast and reliable it is. Thanks for reading!"
-  },
-  {
-    "Name": "What Is Quantum Computing?",
-    "Slug": "quantum-computing",
-    "Date": "February 23, 2026",
-    "Category": "Technology",
-    "Published": true,
-    "Content": "Quantum computing is one of those topics that sounds super futuristic but is actually being worked on right now by companies like Google, IBM, and Microsoft.\n\n# Regular Computers Use Bits\n\nNormal computers work with bits. A bit is either a 0 or a 1. Everything your computer does, every video, every image, every app, is built on combinations of those two values.\n\n# Quantum Computers Use Qubits\n\nQuantum computers use something called qubits. Here is where it gets wild. A qubit can be a 0 and a 1 at the same time, thanks to a concept in physics called superposition. This lets quantum computers process a massive number of possibilities all at once instead of one by one.\n\n# What Can They Do?\n\nQuantum computers are not better at everything. They are really good at specific types of problems, like breaking encryption, simulating molecules for drug discovery, or solving really complex math problems that would take a regular computer an incredibly long time.\n\nGoogle made headlines not too long ago claiming their quantum chip solved a problem in minutes that would take a regular computer much longer to work through.\n\n# Are They Ready Yet?\n\nNot really for everyday use. They are still very experimental and hard to maintain. But the progress is moving fast. This is definitely one of those technologies to keep an eye on. Thanks for reading!"
-  },
-  {
-    "Name": "Social Media And Your Brain",
-    "Slug": "social-media-brain",
-    "Date": "February 24, 2026",
-    "Category": "Technology",
-    "Published": true,
-    "Content": "We all use social media, probably a lot. But have you ever thought about what it is actually doing to your brain?\n\n# Dopamine Is The Key\n\nEvery time you get a like, a comment, or a notification, your brain releases a little bit of dopamine. Dopamine is a chemical that makes you feel good. The problem is that your brain starts to crave that feeling, which is why it is so easy to keep scrolling even when you did not plan to.\n\nApps are literally designed to take advantage of this. The endless scroll, the notifications, the streaks. All of it is built to keep you coming back.\n\n# What The Research Says\n\nA lot of studies have looked at how heavy social media use affects mental health, especially for teens. Some research links it to higher rates of anxiety and lower self esteem, partly because people are constantly comparing themselves to the highlight reels others post online.\n\nThat said, social media is not all bad. It helps people stay connected, find communities, and learn new things.\n\n# Finding Balance\n\nThe key is being aware of how you use it. Setting screen time limits, turning off notifications, and taking breaks can make a big difference. Being mindful about who you follow and how certain content makes you feel matters a lot too.\n\nKnowing how the apps work makes it easier to use them on your own terms. Thanks for reading!"
-  },
-  {
-    "Name": "What Is An API?",
-    "Slug": "what-is-an-api",
-    "Date": "February 25, 2026",
-    "Category": "Web Dev",
-    "Published": true,
-    "Content": "If you spend any time in tech or coding, you are going to hear the word API constantly. So let me explain what it actually means.\n\n# API Stands For Application Programming Interface\n\nI know that sounds complicated but the idea is simple. An API is basically a way for two different pieces of software to talk to each other.\n\n# A Real World Example\n\nThink about ordering food at a restaurant. You do not walk into the kitchen and make the food yourself. You tell the waiter what you want, the waiter goes to the kitchen, and comes back with your food. The waiter is the API in this situation.\n\nFor example, when you use an app that shows you the weather, that app is probably not collecting weather data itself. It sends a request to a weather services API, gets the data back, and displays it for you.\n\n# Why Do Developers Use APIs?\n\nAPIs let developers use features built by other companies without having to build everything themselves. Want to add a map to your app? Use the Google Maps API. Want to let users log in with their Google account? There is an API for that too.\n\nIt saves a ton of time and makes it possible to build really powerful apps without starting from zero.\n\nAPIs are honestly one of the most important building blocks of modern software. Once you understand them, a lot of things in tech start to make more sense. Thanks for reading!"
-  },
-  {
-    "Name": "Electric Vehicles And The Future of Tech",
-    "Slug": "electric-vehicles",
-    "Date": "February 26, 2026",
-    "Category": "Technology",
-    "Published": true,
-    "Content": "Cars are getting a massive tech upgrade right now, and electric vehicles are a big part of that shift.\n\n# Why Are EVs A Tech Topic?\n\nModern electric vehicles are basically computers on wheels. Tesla, Rivian, and other EV companies are building cars that get software updates just like your phone. New features can be added, bugs can be fixed, and performance can improve over time without you ever going to a dealership.\n\n# The Battery Challenge\n\nThe biggest issue with EVs right now is battery technology. Range anxiety is real, which is the fear that your car will run out of charge before you reach a charger. Companies are investing heavily in making batteries that charge faster and last longer.\n\nSolid state batteries are one of the most exciting developments in this space. They could hold more energy and charge way faster than the lithium ion batteries most EVs use today.\n\n# Self Driving Tech\n\nA lot of EV companies are also pushing hard on autonomous driving. Tesla has its Autopilot system, and Waymo has fully driverless taxis already running in some cities. The tech is still being refined but it is moving fast.\n\nThe future of transportation is going to look very different from what we have today, and a lot of it is going to be driven by software and AI. Pretty exciting stuff. Thanks for reading!"
-  },
-  {
-    "Name": "What Is The Difference Between AI And Machine Learning?",
-    "Slug": "ai-vs-ml",
-    "Date": "February 27, 2026",
-    "Category": "Technology",
-    "Published": true,
-    "Content": "A lot of people use AI and machine learning like they mean the same thing. They are related but not exactly the same. Let me clear that up.\n\n# AI Is The Big Umbrella\n\nArtificial intelligence is the broad idea of making machines do things that normally require human intelligence. That includes stuff like understanding language, recognizing faces, playing chess, and making decisions.\n\n# Machine Learning Is One Way To Do It\n\nMachine learning is a specific approach to building AI. Instead of programming a computer with a bunch of rules, you feed it a ton of data and let it figure out the patterns on its own. The more data it gets, the better it becomes at whatever task it is doing.\n\nSo machine learning is a type of AI, but not all AI is machine learning. For example, a simple rule based chatbot from years ago was technically AI, but it was not using machine learning.\n\n# What About Deep Learning?\n\nDeep learning is a type of machine learning that uses something called neural networks, which are loosely inspired by how the human brain works. This is what powers things like ChatGPT, image generators, and voice assistants.\n\nSo to sum it up: AI is the goal, machine learning is one method to reach it, and deep learning is a powerful version of that method.\n\nHopefully that clears things up. It is one of those things that sounds confusing at first but makes sense once you see how they connect. Thanks for reading!"
-  }
 ]
