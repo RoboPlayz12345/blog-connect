@@ -5,7 +5,7 @@
     "Date": "February 1, 2026",
     "Category": "Web Dev",
     "Published": true,
-    "Content": "Well, guys... Welcome to my new blog, this is going to be the start of something new!\n\n# What will I talk about\n\nI will talk about anything I feel like, mostly related to technology!\n\nOk, today I will talk about how a RAG model works. It stands for Retrieval Augmented Generation. It is when you send a prompt to an AI model such as ChatGPT or Gemini. When you send this prompt the model will get some context about what you are asking. A good example of this is when you ask a chatbot something related to HR policies. It will grab context from all of those policies and give you a solid answer. Thanks for reading!"
+    "Content": "Well, guys... Welcome to my new blog, this is going to be the start of something new!\n\n# What will I talk about\n\nI will talk about anything I feel like, mostly related to technology!\n\nOk, today I will talk about how a RAG model works. It stands for Retrieval Augmented Generation. It is when you send a prompt to an AI model such as ChatGPT or Gemini. When you send this prompt the model will get some context about what you are asking. A good example of this is when you ask a chatbot something related to HR policies. It will grab context from all of those policies and give you a solid answer. \n\n This blog was written in HTML, CSS, and Javascript, meaning I would have to manually update the code each time I want to add content to this blog. Instead I have decided to implement a system that can take JSON content from a github repo and convert that into these blogs that you are reading right now!\n\n Thanks for reading!"
   },
   {
     "Name": "School Classes",
