@@ -38,5 +38,5 @@
     "Category": "Tutorial",
     "Published": false,
     "Content": "**Bold Text:** Use double asterisks around text: `**Bold Text**`\n\n*Italic Text:* Use single asterisks: `*Italic Text*`\n\n# Headings\nUse `#` for H1, `##` for H2, etc.\n\n## Lists\n- Unordered list: start each line with `-`\n- Ordered list: start each line with `1.`\n\n## Links\nUse `[Text](https://example.com)` to create a link.\n\n## Code\nInline code: `` `console.log(Hi);` ``\nCode block:\n```\nfunction hello() {\n  console.log(Hello World);\n}\n```\n\n## Preview\nThis post is **unpublished**, so it will only be visible when you set `Published` to `true`."
-  },
+  }
 ]
