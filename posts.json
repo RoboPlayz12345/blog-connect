@@ -1,11 +1,21 @@
 [
   {
+    "id": 1774119503947,
+    "Name": "as",
+    "Category": "as",
+    "Date": "2026-03-21",
+    "Content": "as",
+    "Image": "https://raw.githubusercontent.com/RoboPlayz12345/blog-connect/main/images/1774119502739-as_1774119502422.png",
+    "Published": true
+  },
+  {
     "Name": "My first Blog!",
     "Slug": "achievement",
     "Date": "February 1, 2026",
     "Category": "Web Dev",
     "Published": true,
-    "Content": "Well, guys... Welcome to my new blog, this is going to be the start of something new!\n\n# What will I talk about\n\nI will talk about anything I feel like, mostly related to technology!\n\nOk, today I will talk about how a RAG model works. It stands for Retrieval Augmented Generation. It is when you send a prompt to an AI model such as ChatGPT or Gemini. When you send this prompt the model will get some context about what you are asking. A good example of this is when you ask a chatbot something related to HR policies. It will grab context from all of those policies and give you a solid answer. \n\n This blog was written in HTML, CSS, and Javascript, meaning I would have to manually update the code each time I want to add content to this blog. Instead I have decided to implement a system that can take JSON content from a github repo and convert that into these blogs that you are reading right now!\n\n Thanks for reading!"
+    "Content": "Well, guys... Welcome to my new blog, this is going to be the start of something new!\n\n# What will I talk about\n\nI will talk about anything I feel like, mostly related to technology!\n\nOk, today I will talk about how a RAG model works. It stands for Retrieval Augmented Generation. It is when you send a prompt to an AI model such as ChatGPT or Gemini. When you send this prompt the model will get some context about what you are asking. A good example of this is when you ask a chatbot something related to HR policies. It will grab context from all of those policies and give you a solid answer. \n\n This blog was written in HTML, CSS, and Javascript, meaning I would have to manually update the code each time I want to add content to this blog. Instead I have decided to implement a system that can take JSON content from a github repo and convert that into these blogs that you are reading right now!\n\n Thanks for reading!",
+    "Image": null
   },
   {
     "Name": "School Classes",
@@ -13,7 +23,8 @@
     "Date": "February 2, 2026",
     "Category": "School",
     "Published": true,
-    "Content": "Welcome to my second blog post!\n\nI am going to be talking about one of my classes, AP Computer Science Principles. I personally find this the easiest AP class out there. If you have some common sense you will be able to understand the content, as it is pretty simple. It is also mostly about block coding which is really beginner friendly. Overall this class is fun because I get to do CS while being with my friends. I would highly recommend it to anyone who is interested in computer science. Thanks for reading!"
+    "Content": "Welcome to my second blog post!\n\nI am going to be talking about one of my classes, AP Computer Science Principles. I personally find this the easiest AP class out there. If you have some common sense you will be able to understand the content, as it is pretty simple. It is also mostly about block coding which is really beginner friendly. Overall this class is fun because I get to do CS while being with my friends. I would highly recommend it to anyone who is interested in computer science. Thanks for reading!",
+    "Image": null
   },
   {
     "Name": "Is Apple Behind on the AI Race?",
@@ -21,7 +32,8 @@
     "Date": "February 3, 2026",
     "Category": "Technology",
     "Published": true,
-    "Content": "If you have an iPhone, have you ever wondered why you are not getting a custom AI like many other companies are building? Why do iPhone users have to rely on ChatGPT integration and Gemini integration instead of Apples own model?\n\nThis is because Apple is building something big. The main reason Apple has not been able to deploy an AI model quickly is because of their privacy policy. They have committed to keeping all of their AI processing completely on device. This means Apple has to build a model from scratch, make sure it runs fully offline, and make sure it actually works well. That is a much harder problem than what most companies are doing.\n\nThis is why Apple has not released their own AI model yet. It will be interesting to see what they come out with when they are ready. Thanks for reading!"
+    "Content": "If you have an iPhone, have you ever wondered why you are not getting a custom AI like many other companies are building? Why do iPhone users have to rely on ChatGPT integration and Gemini integration instead of Apples own model?\n\nThis is because Apple is building something big. The main reason Apple has not been able to deploy an AI model quickly is because of their privacy policy. They have committed to keeping all of their AI processing completely on device. This means Apple has to build a model from scratch, make sure it runs fully offline, and make sure it actually works well. That is a much harder problem than what most companies are doing.\n\nThis is why Apple has not released their own AI model yet. It will be interesting to see what they come out with when they are ready. Thanks for reading!",
+    "Image": null
   },
   {
     "Name": "Machine Learning",
@@ -29,7 +41,8 @@
     "Date": "February 5, 2026",
     "Category": "Technology",
     "Published": true,
-    "Content": "# What is Machine Learning?\n\nMachine Learning, or ML, is when you train a computer program on a large amount of data so it can make predictions or decisions on its own without being told exactly what to do every step of the way.\n\nThere are different types of machine learning. Supervised learning is when the model learns from labeled data. Unsupervised learning is when it finds patterns in data on its own. Reinforcement learning is when the model learns by trial and error, kind of like how you get better at a video game by playing it over and over.\n\nSome real world examples include image recognition on your phone, recommendation engines on Netflix and YouTube, spam filters in your email, and fraud detection on your bank account.\n\nMachine learning is being used in almost every industry right now, from healthcare to finance to entertainment. It is one of the most important technologies out there. Thanks for reading!"
+    "Content": "# What is Machine Learning?\n\nMachine Learning, or ML, is when you train a computer program on a large amount of data so it can make predictions or decisions on its own without being told exactly what to do every step of the way.\n\nThere are different types of machine learning. Supervised learning is when the model learns from labeled data. Unsupervised learning is when it finds patterns in data on its own. Reinforcement learning is when the model learns by trial and error, kind of like how you get better at a video game by playing it over and over.\n\nSome real world examples include image recognition on your phone, recommendation engines on Netflix and YouTube, spam filters in your email, and fraud detection on your bank account.\n\nMachine learning is being used in almost every industry right now, from healthcare to finance to entertainment. It is one of the most important technologies out there. Thanks for reading!",
+    "Image": null
   },
   {
     "Name": "Blog Formatting Guide (Tutorial)",
@@ -37,6 +50,7 @@
     "Date": "February 6, 2026",
     "Category": "Tutorial",
     "Published": false,
-    "Content": "**Bold Text:** Use double asterisks around text: `**Bold Text**`\n\n*Italic Text:* Use single asterisks: `*Italic Text*`\n\n# Headings\nUse `#` for H1, `##` for H2, etc.\n\n## Lists\n- Unordered list: start each line with `-`\n- Ordered list: start each line with `1.`\n\n## Links\nUse `[Text](https://example.com)` to create a link.\n\n## Code\nInline code: `` `console.log(Hi);` ``\nCode block:\n```\nfunction hello() {\n  console.log(Hello World);\n}\n```\n\n## Preview\nThis post is **unpublished**, so it will only be visible when you set `Published` to `true`."
+    "Content": "**Bold Text:** Use double asterisks around text: `**Bold Text**`\n\n*Italic Text:* Use single asterisks: `*Italic Text*`\n\n# Headings\nUse `#` for H1, `##` for H2, etc.\n\n## Lists\n- Unordered list: start each line with `-`\n- Ordered list: start each line with `1.`\n\n## Links\nUse `[Text](https://example.com)` to create a link.\n\n## Code\nInline code: `` `console.log(Hi);` ``\nCode block:\n```\nfunction hello() {\n  console.log(Hello World);\n}\n```\n\n## Preview\nThis post is **unpublished**, so it will only be visible when you set `Published` to `true`.",
+    "Image": null
   }
 ]
